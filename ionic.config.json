@@ -1,0 +1,8 @@
+{
+  "name": "profile page",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b33f1b11"
+}
